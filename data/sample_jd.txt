@@ -1,0 +1,35 @@
+Job Title: Junior Software Engineer / Software Development Intern
+Location: Hybrid / Bangalore or Remote (India)
+Company: Growing SaaS startup serving Indian SMEs
+
+About the Role
+We are looking for a final-year student or recent graduate who is passionate about building real products. You will work with our small engineering team on backend services and simple frontend features.
+
+Required Skills
+• Strong programming skills in Python or Java
+• Solid understanding of Data Structures and Algorithms
+• Experience with SQL and relational databases (MySQL / PostgreSQL)
+• Familiarity with Git and version control
+• Basic knowledge of REST APIs and web frameworks (Flask / Django / FastAPI preferred)
+• Good communication and problem-solving ability
+
+Nice to Have
+• Exposure to React or any modern frontend framework
+• Docker basics
+• Cloud awareness (AWS / Azure)
+• Previous internship or significant personal projects on GitHub
+• Understanding of Agile / Scrum
+
+Responsibilities
+• Write clean, tested Python code for backend services
+• Collaborate with product and design on feature delivery
+• Participate in code reviews and daily stand-ups
+• Learn and apply best practices in software engineering
+
+What We Offer
+• Mentorship from senior engineers
+• Opportunity to own features end-to-end
+• Flexible work culture and learning budget
+• Stipend + PPO possibility for strong performers
+
+Apply if you are a curious learner from any Tier-1/2/3 college who wants to ship real software.

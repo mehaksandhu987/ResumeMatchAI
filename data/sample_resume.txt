@@ -1,0 +1,42 @@
+MEHAKPREET SINGH SANDHU
+Final-year B.Tech CSE | Tier-2 City, India
+Email: mehakpreet@example.com | LinkedIn: linkedin.com/in/mehakpreet | GitHub: github.com/mehakpreet
+
+PROFESSIONAL SUMMARY
+Motivated computer science student seeking a software engineering internship. Strong foundation in Python and web development. Passionate about building useful applications and continuous learning.
+
+EDUCATION
+B.Tech in Computer Science & Engineering
+XYZ Institute of Technology (2022 – 2026)
+CGPA: 8.2/10
+
+TECHNICAL SKILLS
+• Languages: Python, Java, SQL, HTML, CSS, JavaScript
+• Frameworks: Flask, basic React
+• Tools: Git, GitHub, VS Code, MySQL
+• Concepts: Data Structures, OOP, REST APIs
+
+PROJECTS
+1. College Event Management System
+   - Built a Flask web app for event registration and admin dashboard
+   - Used MySQL for storage and Bootstrap for responsive UI
+   - Deployed locally; 50+ test users
+
+2. Personal Portfolio Website
+   - Responsive portfolio using HTML, CSS and vanilla JavaScript
+   - Hosted on GitHub Pages
+
+3. Simple Chatbot using Python
+   - Rule-based chatbot for college FAQs
+   - Practised string matching and basic NLP concepts
+
+EXPERIENCE / INTERNSHIPS
+• Virtual Intern – IBM SkillsBuild AI/ML (2025)
+  Completed modules on machine learning fundamentals and built small ML demos.
+
+SOFT SKILLS
+Communication, Teamwork, Problem Solving, Time Management
+
+ACHIEVEMENTS
+• Winner – College Hackathon 2024 (Web track)
+• Active member of Coding Club

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ResumeMatch AI Report – Demo Candidate</title>
+<style>
+  :root { --primary: #0f766e; --bg: #f8fafc; --card: #ffffff; --text: #1e293b; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Segoe UI', system-ui, sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; padding: 2rem; }
+  .container { max-width: 800px; margin: 0 auto; }
+  header { text-align: center; margin-bottom: 2rem; }
+  h1 { color: var(--primary); font-size: 1.8rem; }
+  .subtitle { color: #64748b; font-size: 0.95rem; }
+  .score-card { background: var(--card); border-radius: 16px; padding: 2rem; text-align: center;
+                 box-shadow: 0 4px 20px rgba(0,0,0,0.06); margin-bottom: 1.5rem; }
+  .score-value { font-size: 3.5rem; font-weight: 700; color: #ef4444; }
+  .score-label { font-size: 1.1rem; color: #64748b; }
+  .card { background: var(--card); border-radius: 12px; padding: 1.25rem 1.5rem;
+           box-shadow: 0 2px 12px rgba(0,0,0,0.04); margin-bottom: 1rem; }
+  .card h2 { font-size: 1.15rem; color: var(--primary); margin-bottom: 0.6rem; }
+  ul { padding-left: 1.2rem; }
+  li { margin-bottom: 0.35rem; }
+  .tag { display: inline-block; background: #ccfbf1; color: #0f766e; padding: 0.2rem 0.55rem;
+          border-radius: 999px; font-size: 0.8rem; margin: 0.15rem; }
+  footer { text-align: center; margin-top: 2rem; font-size: 0.8rem; color: #94a3b8; }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>ResumeMatch AI</h1>
+    <p class="subtitle">Career Guidance Agent · SDG 8 · IBM SkillsBuild</p>
+    <p style="margin-top:0.5rem"><strong>Demo Candidate</strong> → <em>Software Engineer (Sample JD)</em></p>
+  </header>
+
+  <div class="score-card">
+    <div class="score-value">30%</div>
+    <div class="score-label">Resume–Job Match Score (TF-IDF Cosine Similarity)</div>
+  </div>
+
+  <div class="card">
+    <h2>Detected Skills in Resume</h2>
+    <p>bootstrap, communication, css, flask, git, github, html, java, javascript, machine learning, nlp, problem solving, python, react, sql, teamwork, time management</p>
+  </div>
+
+  <div class="card">
+    <h2>Missing Skills (present in JD, absent in resume)</h2>
+    <ul><li>agile</li><li>aws</li><li>azure</li><li>django</li><li>docker</li><li>fastapi</li><li>scrum</li></ul>
+  </div>
+
+  <div class="card">
+    <h2>Three Improvement Tips</h2>
+    <ul><li>Your overall match is low. Rewrite the Professional Summary and Skills section so they mirror the exact keywords used in the job description.</li><li>Explicitly add these missing skills (if you have them) or learn the top ones: agile, aws, azure, django, docker.</li><li>Keep a clean, prioritised skill section (group by category) and place the most relevant skills for this JD at the top.</li></ul>
+  </div>
+
+  <div class="card">
+    <h2>Suggested Career Path</h2>
+    <p><strong>Best fit:</strong> Software Engineer</p>
+    <p><strong>Possible roles:</strong> Software Developer, Backend Engineer, Full-Stack Developer</p>
+    <p style="margin-top:0.6rem"><strong>Next skills to learn:</strong></p>
+    <p><span class="tag">system design</span> <span class="tag">docker</span> <span class="tag">aws</span> <span class="tag">react</span> <span class="tag">microservices</span></p>
+  </div>
+
+  <div class="card">
+    <h2>Personal Learning Plan</h2>
+    <ol style="padding-left:1.2rem"><li>Master one backend language (Python/Java) + SQL</li><li>Build 2-3 full-stack projects and push to GitHub</li><li>Learn Docker + basic AWS (EC2, S3)</li><li>Practice system-design fundamentals and DSA</li></ol>
+  </div>
+
+  <footer>
+    Generated offline by ResumeMatch AI · No data leaves your machine · Free for students
+  </footer>
+</div>
+</body>
+</html>
